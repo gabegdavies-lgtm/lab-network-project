@@ -39,7 +39,7 @@ High Level Topology
 
                                    ACCESS SWITCH
                                    Cisco Catalyst
-                                       2960
+                                       3560(layer2)
                                           │
          ┌──────────────────────┬──────────────────────┬──────────────────────┐
          │                      │                      │
