@@ -37,9 +37,9 @@ High Level Topology
 
 ---
 
-                                   ACCESS SWITCH
+                                   ACCESS SWITCH (layer2)
                                    Cisco Catalyst
-                                       3560(layer2)
+                                       3560
                                           │
          ┌──────────────────────┬──────────────────────┬──────────────────────┐
          │                      │                      │
